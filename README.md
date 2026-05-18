@@ -1,1 +1,1 @@
-# earthquake_lx
+# earthquake
